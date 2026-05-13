@@ -1,47 +1,63 @@
-#  Hi, I'm Pallavi Bharadwaj
+# Hi, I'm Pallavi Bharadwaj 👋
 
-🎓 MSc Data Science candidate at the **University of York (UK)**  
-💻 Passionate about **Machine Learning, Generative AI, and Responsible AI Development**
-
----
-
-### 🧠 About Me
-- 🎓 Pursuing MSc in Data Science @ University of York | BEng in Computer Science (Atria University, India)
-- 🧩 Interested in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI Systems**
-- 💡 Applying data governance, fairness, and explainability principles to build responsible AI models
-- 🧠 Experienced with **Python (Pandas, NumPy, Scikit-learn, XGBoost, LangChain)** and SQL
-- ⚙️ Hands-on exposure to **Azure**, **REST APIs**, and **Agile development workflows**
-- 🌱 Currently working on my dissertation: *LLM Integration with Structured Databases — exploring prompt engineering, safety alignment, and RAG pipelines*
-- 🏸 State-level badminton player — I value focus, consistency, and collaboration
+🎓 MSc Data Science candidate at the **University of York, UK** — graduating September 2026.
+💻 Interested in turning data into decisions: SQL, Python, statistical modelling, experimentation, and applied AI.
 
 ---
 
-### 💼 Projects & Portfolio
-- 🧠 **[LLM + SQL Natural Language Query System](#)** – Integrating LLMs with relational databases using RAG pipelines, prompt engineering, and fairness evaluation  
-- 📊 **[UK Racism Trends Analysis (COVID-19)](#)** – Data governance, EDA, and statistical modelling using Python  
-- ⚡ **[Renewable Electricity vs CO₂ Emissions Analysis](#)** – Comparative analytics (2010–2022); awarded *Merit* for research presentation  
-- 🏥 **[Hospital Bed Usage Prediction](#)** – Regression modelling (linear, ridge, random forest) with performance evaluation (RMSE, R²)  
-- 🏙️ **[Urban Neglect & Crime Analysis – Azure Cloud](#)** – Designed data pipelines & dashboards using Azure Synapse Analytics  
-- 🩻 **[AI Radiology Report Generation (Research)](#)** – Vision-Language models & Responsible AI evaluation  
-- 🗣️ **[Automatic Pronunciation Mistake Detection](#)** – Speech processing & ML pipeline for real-time classification
+### About Me
 
-
----
-
-### ⚙️ Tech Stack
-**Languages:** Python | Java | C | SQL  
-**Libraries & Tools:** Pandas | NumPy | Scikit-learn | XGBoost | Matplotlib | Seaborn | LangChain | NLTK  
-**Cloud & Platforms:** Azure Synapse | Git/GitHub | REST APIs | Jupyter Notebook | CI/CD (basic)  
-**AI Domains:** Machine Learning | LLMs | RAG | Prompt Engineering | Responsible AI | Explainability | Fairness  
+- 🎓 MSc Data Science @ University of York | BEng Computer Science, First Class with Distinction (Atria University, Bangalore)
+- 📊 Hands-on across SQL, Python (Pandas, NumPy, Scikit-learn, XGBoost), statistical modelling, A/B testing methodology, and EDA
+- ☁️ Cloud analytics experience with Azure Synapse Analytics
+- 🤖 Actively working with LLMs, RAG pipelines, prompt engineering, and LangChain — applied to automating analytical workflows
+- 📰 Published ML research in an academic journal (December 2024) on real-time pronunciation error detection
+- 🌱 Currently building my MSc dissertation: an LLM + RAG system for natural-language querying of relational databases
+- 🏸 State-level badminton player — discipline, consistency, and showing up
 
 ---
 
-### 📫 Let’s Connect
-📧 **pallavibharadwaj28@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/feed/)  
-💻 [GitHub](https://github.com/pallavi-bharadwaj)
+### Projects
+
+#### Public Repositories
+
+- ⚡ **[Renewable Electricity vs CO₂ Emissions Analysis](https://github.com/Pallavii-bharadwaj/renewable-energy-co2-analysis)** — Multi-country comparative and temporal analysis (2010–2022) using Python and statistical models. Awarded *Merit* at MSc presentation.
+
+- 🇬🇧 **[UK Racism Trends Analysis During COVID-19](https://github.com/Pallavii-bharadwaj/uk-racism-trends-covid19)** — Data governance framework applied to multi-source UK datasets; EDA and statistical modelling in Python to surface temporal and geographic trends.
+
+- 🗣️ **[Automatic Pronunciation Mistake Detection](https://github.com/Pallavii-bharadwaj/automatic-pronunciation-detector)** — End-to-end ML pipeline (Python, Scikit-learn) for real-time pronunciation error detection. Logistic regression, decision trees, random forests; evaluated with accuracy, precision, recall, ROC-AUC. **Published in an academic journal, December 2024.**
+
+
+#### Currently Private
+
+The following projects are part of ongoing MSc coursework and dissertation submissions, and their repositories will be made public after submission. Code, notebooks, or walkthroughs are available on request — please email me directly.
+
+- 🧠 **MSc Dissertation — Integrated Database and LLM for Clinical Support** *(in progress, due September 2026)*
+  Building an LLM + RAG system that lets clinicians query medical databases in plain English, with evaluation pipelines that catch hallucinations and fail safely.
+
+- 🏥 **Hospital Bed Usage Prediction** 
+  Regression modelling (linear, ridge, random forest) to forecast hospital bed occupancy; feature engineering, cross-validation, RMSE & R² evaluation.
+
+- 🏙️ **Urban Neglect & Crime Analysis — Azure Cloud Analytics** 
+  SQL-based data pipelines on Azure Synapse Analytics, dashboards, and evidence-based recommendations.
 
 ---
 
-💡 *Data-driven, curious, and passionate about building transparent and ethical AI systems.*
+### Tech Stack
 
+**Languages:** Python • SQL • Java • C
+**Data & ML:** Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seaborn • NLTK • Statistical modelling
+**AI / LLMs:** LLMs • RAG • Prompt engineering • LangChain • OpenAI APIs
+**Cloud & Tools:** Azure Synapse • Git/GitHub • REST APIs • Jupyter • CI/CD-aware workflows • Agile/Scrum
+
+---
+
+### Let's Connect
+
+📧 **pallavibharadwaj28@gmail.com**
+💼 **[LinkedIn]https://www.linkedin.com/in/pallavi-bharadwaj-2403ba254/**
+💻 **[GitHub](https://github.com/Pallavii-bharadwaj)**
+
+---
+
+*Open to graduate Data Science / Data Analyst roles for an end-of-2026 start.*
