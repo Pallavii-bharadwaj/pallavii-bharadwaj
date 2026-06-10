@@ -20,37 +20,36 @@
 ### Projects
 
 #### Public Repositories
-## Projects
-
-### 🎯 Deep Learning Portfolio
+### 🎯 [Deep Learning Portfolio](https://github.com/Pallavii-bharadwaj/deep-learning-portfolio)
 A six-question portfolio covering classical ML through to generative models —
 regularised regression, decision trees with PCA, word embeddings, neural network
 regression, convolutional image classification, and conditional VAEs.
 **Tech:** PyTorch, scikit-learn, Gensim
 
-### 🏙️ Broken Windows London Analysis
+### 🏙️ [Broken Windows London Analysis](https://github.com/Pallavii-bharadwaj/broken-windows-london-analysis)
 Azure-Databricks-Tableau lakehouse pipeline testing Broken Windows Theory
 across London boroughs using crime, fly-tipping, and recycling data from
 the London Datastore.
 **Tech:** Azure Data Lake, Databricks, Delta Lake, Tableau, PySpark
 
-### 🗣️ Automatic Pronunciation Detector
+### 🗣️ [Automatic Pronunciation Detector](https://github.com/Pallavii-bharadwaj/automatic-pronunciation-detector)
 Speech-based pronunciation error detection using machine learning and
 acoustic analysis.
 **Tech:** Python, ML, audio processing
 
-### 🌱 Renewable Energy & CO₂ Analysis
+### 🌱 [Renewable Energy & CO₂ Analysis](https://github.com/Pallavii-bharadwaj/renewable-energy-co2-analysis)
 Comparative and temporal analysis of renewable electricity adoption and
 CO₂ emissions across countries from 2010 to 2022.
 **Tech:** Jupyter, Pandas, data visualisation
 
-### 🩺 Regression Modelling for Hospital Bed Usage Prediction
+### 🩺 [Regression Modelling for Hospital Bed Usage Prediction](https://github.com/Pallavii-bharadwaj/Regression-Modelling-for-Hospital-Bed-Usage-Prediction)
 Predictive modelling for hospital bed day requirements using OLS, Ridge,
 Lasso, and ElasticNet regression with cross-validated hyperparameter tuning.
 **Tech:** scikit-learn, Pandas, NumPy
 
-### 📊 UK Racism Trends During COVID-19
+### 📊 [UK Racism Trends During COVID-19](https://github.com/Pallavii-bharadwaj/uk-racism-trends-covid19)
 Data-driven analysis of racism trends in the UK during the COVID-19 pandemic.
+
 
 #### Currently Private
 
