@@ -69,7 +69,9 @@ Data-driven analysis of racism trends in the UK during the COVID-19 pandemic.
 ### Let's Connect
 
  **pallavibharadwaj28@gmail.com**
+ 
  **[LinkedIn]https://www.linkedin.com/in/pallavi-bharadwaj-2403ba254/**
+ 
  **[GitHub](https://github.com/Pallavii-bharadwaj)**
 
 ---
