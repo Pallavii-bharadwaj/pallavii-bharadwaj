@@ -1,6 +1,6 @@
 # Hi, I'm Pallavi Bharadwaj 
 
-MSc Data Science candidate at the **University of York, UK** — graduating September 2026.
+MSc Data Science candidate at the **University of York, UK** – graduating September 2026.
 Interested in turning data into decisions: SQL, Python, statistical modelling, experimentation, and applied AI.
 
 ---
@@ -10,10 +10,10 @@ Interested in turning data into decisions: SQL, Python, statistical modelling, e
 -  MSc Data Science @ University of York | BEng Computer Science, First Class with Distinction (Atria University, Bangalore)
 -  Hands-on across SQL, Python (Pandas, NumPy, Scikit-learn, XGBoost), statistical modelling, A/B testing methodology, and EDA
 -  Cloud analytics experience with Azure Synapse Analytics
--  Actively working with LLMs, RAG pipelines, prompt engineering, and LangChain — applied to automating analytical workflows
+-  Actively working with LLMs, RAG pipelines, prompt engineering, and LangChain, applied to automating analytical workflows
 -  Published ML research in an academic journal (December 2024) on real-time pronunciation error detection
 -  Currently building my MSc dissertation: an LLM + RAG system for natural-language querying of relational databases
--  State-level badminton player — discipline, consistency, and showing up
+-  State-level badminton player discipline, consistency, and showing up
 
 ---
 
@@ -21,7 +21,7 @@ Interested in turning data into decisions: SQL, Python, statistical modelling, e
 
 #### Public Repositories
 ###  [Deep Learning Portfolio](https://github.com/Pallavii-bharadwaj/deep-learning-portfolio)
-A six-question portfolio covering classical ML through to generative models —
+A six-question portfolio covering classical ML through to generative models 
 regularised regression, decision trees with PCA, word embeddings, neural network
 regression, convolutional image classification, and conditional VAEs.
 **Tech:** PyTorch, scikit-learn, Gensim
@@ -53,7 +53,7 @@ Data-driven analysis of racism trends in the UK during the COVID-19 pandemic.
 
 #### Currently Private
 
--  **MSc Dissertation — Integrated Database and LLM for Clinical Support** *(in progress, due September 2026)*
+  **MSc Dissertation — Integrated Database and LLM for Clinical Support** *(in progress, due September 2026)*
   Building an LLM + RAG system that lets clinicians query medical databases in plain English, with evaluation pipelines that catch hallucinations and fail safely.
 ---
 
