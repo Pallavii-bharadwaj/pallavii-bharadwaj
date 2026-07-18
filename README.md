@@ -54,7 +54,7 @@ Data-driven analysis of racism trends in the UK during the COVID-19 pandemic.
 #### Currently Private
 
 ### MSc Dissertation – Integrated Database and LLM for Clinical Support
-Building an LLM + RAG system that lets clinicians query medical databases in plain English, with evaluation pipelines that catch hallucinations and fail safely.
+### Building an LLM + RAG system that lets clinicians query medical databases in plain English, with evaluation pipelines that catch hallucinations and fail safely.
 ---
 
 ### Tech Stack
