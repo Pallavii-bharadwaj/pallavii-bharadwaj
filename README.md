@@ -20,11 +20,6 @@ Interested in turning data into decisions: SQL, Python, statistical modelling, e
 ### Projects
 
 #### Public Repositories
-###  [Deep Learning Portfolio](https://github.com/Pallavii-bharadwaj/deep-learning-portfolio)
-A six-question portfolio covering classical ML through to generative models 
-regularised regression, decision trees with PCA, word embeddings, neural network
-regression, convolutional image classification, and conditional VAEs.
-**Tech:** PyTorch, scikit-learn, Gensim
 
 ### [Clinical Bed Demand API — AWS EC2 Deployment](https://github.com/pallavii-bharadwaj/hospital-bed-aws-deployment)
 Ridge Regression REST API trained on real clinical data and deployed live on AWS EC2 (London) with FastAPI and a GitHub Actions CI/CD pipeline. Tech: AWS EC2, FastAPI, scikit-learn, GitHub Actions.
