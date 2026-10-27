@@ -12,7 +12,7 @@ Interested in turning data into decisions: SQL, Python, statistical modelling, e
 -  Cloud analytics experience with Azure Synapse Analytics
 -  Actively working with LLMs, RAG pipelines, prompt engineering, and LangChain, applied to automating analytical workflows
 -  Published ML research in an academic journal (December 2024) on real-time pronunciation error detection
--  Currently building my MSc dissertation: an LLM + RAG system for natural-language querying of relational databases
+-  MSc dissertation (Distinction): a breast cancer treatment-recommendation pipeline across three hospitals' data, with a NICE-grounded RAG explanation layer
 -  State-level badminton player discipline, consistency, and showing up
 
 ---
@@ -48,11 +48,9 @@ Lasso, and ElasticNet regression with cross-validated hyperparameter tuning.
 ###  [UK Racism Trends During COVID-19](https://github.com/Pallavii-bharadwaj/uk-racism-trends-covid19)
 Data-driven analysis of racism trends in the UK during the COVID-19 pandemic.
 
-
-#### Currently Private
-
-### MSc Dissertation – Integrated Database and LLM for Clinical Support
-### Building an LLM + RAG system that lets clinicians query medical databases in plain English, with evaluation pipelines that catch hallucinations and fail safely.
+### [Integrated Database and LLM for Clinical Support](https://github.com/pallavii-bharadwaj/YOUR-REPO-NAME)
+MSc dissertation (Distinction). A feasibility study that harmonises breast cancer data from three hospitals (Ghana and the USA), predicts MDT treatment groups (86.73% test accuracy on six groups), and explains each prediction with NICE guideline passages through a RAG layer. The classifier decides; the language model only explains. Includes withdrawn results and honest limitations.
+**Tech:** Python, scikit-learn, RAG, sentence-transformers, Qwen2.5
 ---
 
 ### Tech Stack
