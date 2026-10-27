@@ -50,8 +50,9 @@ Data-driven analysis of racism trends in the UK during the COVID-19 pandemic.
 
 ### [Integrated Database and LLM for Clinical Support](https://github.com/Pallavii-bharadwaj/LLM-structured-database-clinical-support)
 MSc dissertation (Distinction). A feasibility study that harmonises breast cancer data from three hospitals (Ghana and the USA), predicts MDT treatment groups (86.73% test accuracy on six groups), and explains each prediction with NICE guideline passages through a RAG layer. The classifier decides; the language model only explains. Includes withdrawn results and honest limitations.
+
 **Tech:** Python, scikit-learn, RAG, sentence-transformers, Qwen2.5
----
+--- 
 
 ### Tech Stack
 
